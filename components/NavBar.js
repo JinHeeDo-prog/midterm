@@ -6,9 +6,9 @@ export default function Navbar(){
         <>
             <div>
                 <Link href ="/">| Home</Link> |
-                <Link href ="/about"> About</Link> |
-                <Link href="/contact"> Contact</Link> |
-                <Link href="/posts/hello"> hello</Link> |
+                <Link href ="/About"> About</Link> |
+                <Link href="/Contact"> Contact</Link> |
+                <Link href="/posts/${sdg}"> hello</Link> |
                 <Link href="/posts/Post"> index</Link> |
 
             </div>
